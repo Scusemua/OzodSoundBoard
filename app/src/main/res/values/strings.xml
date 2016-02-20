@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">The Ozod Soundboard</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button1">STOP SOUNDS</string>
+    <string name="button2">H3H3 MEME</string>
+    <string name="button3">WEIRD MOANS</string>
+    <string name="button4">FUCKING INBRED</string>
+    <string name="button5">FUUUUUUUUUUCK</string>
+    <string name="button6">JOHN CENA</string>
+    <string name="button7">COME ON, DAD</string>
+    <string name="button8">RICK ASTLEY</string>
+    <string name="button9">MEMES PASTA</string>
+    <string name="button10">DUDE LISTEN</string>
+    <string name="button11">NICE MEMES</string>
+    <string name="button12">PIECE OF SHIT</string>
+    <string name="button13">HERE COMES MEMES</string>
+    <string name="button14">YOU PIECE OF RAT</string>
+    <string name="button15">PUT TWO UP YOUR ASS</string>
+    <string name="button16">HELLO</string>
+    <string name="button17">YES</string>
+    <string name="button18">NO</string>
+    <string name="button19">BYE MOFO</string>
+    <string name="button20">WHAT THE FUCK</string>
+    <string name="button21">YOU RAT BASTARD</string>
+
+    <string name="checkbox">Allow audio overlap?</string>
+</resources>
